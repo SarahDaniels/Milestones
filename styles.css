@@ -1,0 +1,47 @@
+/*id*/
+#body {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  margin-left: 70px;
+  margin-right: 70px;
+  color: hsl(0, 100%, 0%);
+  background-color: hsl(174, 100%, 92%);
+}
+
+/*class*/
+.h1 {
+  color: hsl(0, 0%, 0%)
+}
+
+.ENIAC {
+  color: hsl(0, 0%, 0%)
+}
+
+.IBM {
+  color: hsl(0, 0%, 0%)
+}
+
+.Windows {
+  color: hsl(0, 0%, 0%)
+}
+
+.www {
+  color: hsl(0, 0%, 0%)
+}
+
+.Internet {
+  color: hsl(0, 0%, 0%)
+}
+
+/*type*/
+html {
+  background-color: hsl(174, 100%, 92%);
+}
+
+p {
+  color: hsl(0, 0%, 25%);
+}
+
+blockquote {
+  color: hsl(0, 0%, 50%)
+}
